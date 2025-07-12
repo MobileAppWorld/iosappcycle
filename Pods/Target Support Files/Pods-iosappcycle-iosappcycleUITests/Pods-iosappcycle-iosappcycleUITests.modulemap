@@ -1,0 +1,6 @@
+framework module Pods_iosappcycle_iosappcycleUITests {
+  umbrella header "Pods-iosappcycle-iosappcycleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
